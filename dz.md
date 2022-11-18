@@ -10,6 +10,8 @@
 * git diff – увидеть разницу между текущим файлом и закоммиченным файлом
 * git config - ввод e-mail и имени пользователя
 * git version - вывод текущей версии git
+* git log - - graph - вывести лог коммитов с визуализацией между ними
+
 
 Ссылка на книгу "Git для профессионального программиста" :
 https://gbcdn.mrgcdn.ru/uploads/asset/4245110/attachment/d4eb8c232f8f2bdf4e42ba7cb49e0c50.pdf
